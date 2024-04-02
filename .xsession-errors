@@ -1,0 +1,66 @@
+Xsession: X session started for kali at Tue Apr  2 04:57:10 AM EDT 2024
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+localuser:kali being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 04:57:19.010: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:1201): xfwm4-WARNING **: 04:57:20.949: Unsupported GL renderer (llvmpipe (LLVM 15.0.6, 256 bits)).
+
+** (wrapper-2.0:1263): WARNING **: 04:57:22.238: No outputs have backlight property
+Another notification daemon is running, exiting
+
+(xfce4-power-manager:1414): xfce4-power-manager-WARNING **: 04:57:23.533: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:1414): WARNING **: 04:57:23.547: No outputs have backlight property
+
+(xfce4-power-manager:1414): xfce4-power-manager-WARNING **: 04:57:23.550: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+(vmware-user:1306): Gtk-WARNING **: 04:57:23.845: gtk_disable_setlocale() must be called before gtk_init()
+
+** (xiccd:1391): WARNING **: 04:57:24.061: EDID is empty
+blueman-applet 04.57.27 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 04.57.27 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 04.57.27 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+** (xiccd:1391): WARNING **: 05:24:00.923: EDID is empty
+
+** (xiccd:1391): WARNING **: 05:24:00.929: EDID is empty
